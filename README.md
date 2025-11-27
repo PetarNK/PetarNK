@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋 I’m PetarNK
 
-<!--
-**PetarNK/PetarNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I’m a software developer interested in building full-stack web applications, APIs, and experimenting with modern technologies.  
+I enjoy writing clean, maintainable, and efficient code — and I’m always learning something new.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack & Skills  
+Here are some of the technologies and tools I use (feel free to update as needed):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C#, JavaScript / TypeScript  
+- **Backend:** .NET / C#, REST APIs, Web APIs  
+- **Frontend / Web:** JavaScript, (Next.js or other frameworks), HTML, CSS  
+- **Other:** (you can list databases, tools, libraries, dev-ops, etc.)
+
+## 📂 Selected Projects  
+Here are a few repos I’ve worked on:
+
+| Repo | Description / Key Tech |
+|------|------------------------|
+| `Project-BackEnd` | Backend project — C# / .NET |
+| `Project-FrontEnd` | Web frontend / JavaScript / TypeScript |
+| `RPG` | C# project / game-logic experiments |
+
+## 📊 GitHub Stats & Activity  
+
+[![PetarNK’s GitHub stats](https://github-readme-stats.vercel.app/api?username=PetarNK&show_icons=true&theme=radical)](https://github.com/PetarNK)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarNK&layout=compact&theme=radical)](https://github.com/PetarNK)  
+
+---
+
+## 📬 Get in Touch  
+I’m open to collaborations, learning together, or just chatting about code.  
+Feel free to reach out if you want to work together or discuss interesting ideas.
+
+chore: add profile README
