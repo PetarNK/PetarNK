@@ -5,12 +5,12 @@ I’m a software developer interested in building full-stack web applications, A
 I enjoy writing clean, maintainable, and efficient code — and I’m always learning something new.
 
 ## 🧰 Tech Stack & Skills  
-Here are some of the technologies and tools I use (feel free to update as needed):
+Here are some of the technologies and tools I use:
 
 - **Languages:** C#, JavaScript / TypeScript  
 - **Backend:** .NET / C#, REST APIs, Web APIs  
 - **Frontend / Web:** JavaScript, (Next.js or other frameworks), HTML, CSS  
-- **Other:** (you can list databases, tools, libraries, dev-ops, etc.)
+- **Other:** MSSQL, SQL, MongoDB
 
 ## 📂 Selected Projects  
 Here are a few repos I’ve worked on:
