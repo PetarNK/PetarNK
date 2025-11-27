@@ -23,7 +23,6 @@ Here are a few repos I’ve worked on:
 
 ## 📊 GitHub Stats & Activity  
 
-[![PetarNK’s GitHub stats](https://github-readme-stats.vercel.app/api?username=PetarNK&show_icons=true&theme=radical)](https://github.com/PetarNK)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarNK&layout=compact&theme=radical)](https://github.com/PetarNK)  
 
 ---
