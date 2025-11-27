@@ -31,5 +31,3 @@ Here are a few repos I’ve worked on:
 ## 📬 Get in Touch  
 I’m open to collaborations, learning together, or just chatting about code.  
 Feel free to reach out if you want to work together or discuss interesting ideas.
-
-chore: add profile README
