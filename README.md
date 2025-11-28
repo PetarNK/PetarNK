@@ -20,7 +20,7 @@ Here are a few repos I’ve worked on:
 | `Project-BackEnd` | Backend project — C# / .NET |
 | `Project-FrontEnd` | Web frontend / JavaScript / TypeScript |
 | `RPG` | C# project / game-logic experiments |
-| `Karting timing tool` | Side project for Karting team managment / ReactJS | https://aa-karting.fun/
+| `Karting timing tool` | Side project for Karting team managment: https://aa-karting.fun/ / ReactJS |
 
 ## 📊 GitHub Stats & Activity  
 
